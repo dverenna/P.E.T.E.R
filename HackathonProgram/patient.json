@@ -1,0 +1,34 @@
+{
+    "Jorge Benjamin": {
+        "Appointment History": {
+            "Physical": {
+                "Appointment Date": "07/07/2017", 
+                "Met With": "Jon Henry", 
+                "Added By": "Stefanie"
+            }
+        }, 
+        "Blood Type": "O-", 
+        "Medication": {
+            "Adderal": {
+                "Started using on": "10/15/2017", 
+                "Added By": "Drew", 
+                "Stopped using on": "03/14/2018"
+            }
+        }, 
+        "Allergies": {
+            "Computers in Class": {
+                "Added By": "Peter", 
+                "Added on": "11/03/2018"
+            }
+        }, 
+        "Gender": "Male", 
+        "Date of Birth": "01/01/1970", 
+        "Surgical History": {
+            "Apendectomy": {
+                "Performed On": "01/15/2013", 
+                "Added By": "Emily", 
+                "Performed By": "Lauren"
+            }
+        }
+    }
+}
