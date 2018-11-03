@@ -1,2 +1,2 @@
-# P.E.T.E.R
+# P.E.T.E.R.
 Hackathon 2018 project
