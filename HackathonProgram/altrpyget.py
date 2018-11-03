@@ -25,7 +25,7 @@ def generateHMACPayload(method, refToken, dt):
     print(str(dt))
     return str(method) + '\n' + str(refToken) + '\n' + str(dt) + '\n'
 
-def main():
+def get(REF):
     date = datetime.datetime.utcnow().isoformat();
     global response
 
@@ -40,6 +40,7 @@ def main():
         }
     #
     response = requests.request("GET", URL + REF, headers=headers)
+    return response.text
 """
 main()
 

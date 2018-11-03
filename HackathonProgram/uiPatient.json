@@ -1,0 +1,34 @@
+{
+    "Borge Genjamin": {
+        "Date of Birth": "09/03/1875",
+        "Blood Type": "B",
+        "Gender": "Male",
+        "Medication": {
+            "Adderall": {
+                "Added By": "Peter",
+                "Started using on": "10/20/1999",
+                "Stopped using on": "-1"
+            }
+        },
+        "Allergies": {
+            "Peanuts": {
+                "Added By": "Peter",
+                "Added on": "01/19/1996"
+            }
+        },
+        "Surgical History": {
+            "Apendectomy": {
+                "Added By": "Peter",
+                "Performed By": "Dr. Sully",
+                "Performed On": "10/05/2014"
+            }
+        },
+        "Appointment History": {
+            "2018 Physical": {
+                "Added By": "Peter",
+                "Met With": "Dr. Mehan",
+                "Appointment Date": "07/07/2018"
+            }
+        }
+    }
+}
